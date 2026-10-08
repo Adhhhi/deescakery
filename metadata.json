@@ -1,0 +1,6 @@
+{
+  "name": "Dees Cakery",
+  "description": "Dees Cakery — handcrafted cakes and desserts made with love in Kavoor. Delivering happiness with custom celebration cakes, cupcakes, brownies, and dessert hampers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
